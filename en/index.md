@@ -85,19 +85,24 @@ Interested in a wide range of technologies and studies them as a hobby.
 
 Mainly engaged in bug fixes.
 
-#### Pull Requests
+#### Pull Request
 
-- docs: updated args_schema to be required when using callback handlers in custom tools. [langchain-ai/langchain/pull/25887](https://github.com/langchain-ai/langchain/pull/25887)
-- fix: error when the environment variable value contains = [smurawski/pycomposefile/pull/31](https://github.com/smurawski/pycomposefile/pull/31)
-- community: Fix all page numbers were the same for _BaseGoogleVertexAISearchRetriever [langchain-ai/langchain/pull/19175](https://github.com/langchain-ai/langchain/pull/19175)
+- docs: updated args_schema to be required when using callback handlers in custom tools.  
+  [langchain-ai/langchain/pull/25887](https://github.com/langchain-ai/langchain/pull/25887)
+- fix: error when the environment variable value contains =  
+  [smurawski/pycomposefile/pull/31](https://github.com/smurawski/pycomposefile/pull/31)
+- community: Fix all page numbers were the same for _BaseGoogleVertexAISearchRetriever  
+  [langchain-ai/langchain/pull/19175](https://github.com/langchain-ai/langchain/pull/19175)
 
 #### Review
 
-- Improvement\[VectorStore\] Optimize VectorStoreRetriever [langchain-ai/langchain/pull/25091](https://github.com/langchain-ai/langchain/pull/25091)
+- Improvement\[VectorStore\] Optimize VectorStoreRetriever  
+  [langchain-ai/langchain/pull/25091](https://github.com/langchain-ai/langchain/pull/25091)
 
 #### Issue
 
-- Temperature parameter is ignored when temperature=0 [langchain-ai/langchain-google/issues/49](https://github.com/langchain-ai/langchain-google/issues/49)
+- Temperature parameter is ignored when temperature=0  
+  [langchain-ai/langchain-google/issues/49](https://github.com/langchain-ai/langchain-google/issues/49)
 
 <!-- ### Speaking Engagements -->
 
