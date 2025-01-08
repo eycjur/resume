@@ -23,14 +23,12 @@ lang: en
 
 ### Data Science / Machine Learning
 
+- Skilled in data preprocessing and analysis using Numpy and Pandas.
 - Experienced with scikit-learn, LightGBM, and Pytorch, and has participated in data analysis competitions.
-- Extensive experience developing applications using generative AI with LangChain.
+- Practical experience in anomaly detection using images.
+- Extensive experience in developing applications using generative AI, with frequent use of LangChain.
 - Interested in MLOps, experimenting with Vertex AI Pipeline and Sagemaker Pipeline as a hobby.
 - Selected as an outstanding graduate of GCI 2020 Summer, a data science course offered by the University of Tokyo's Matsuo Laboratory.
-
-### Data Analysis
-
-- Skilled in data preprocessing and analysis using Numpy and Pandas.
 
 ### Backend
 

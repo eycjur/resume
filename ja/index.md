@@ -23,14 +23,12 @@ lang: ja
 
 ### データサイエンス・機械学習
 
+- Numpy, Pandasを用いたデータの前処理や分析が得意。
 - scikit-learnやLightGBM、Pytorchの利用経験があり、データ分析コンペティションへの出場経験あり。
-- LangChainを用いた生成AIのアプリケーションの開発経験が豊富。
+- 画像を用いた異常検知の実務経験あり。
+- 生成AIのアプリケーションの開発経験が豊富で、LangChainを用いることが多い。
 - MLOpsに興味があり、Vertex AI PipelineやSagemaker Pipelineを趣味で触っている。
 - 東京大学の松尾研究室が開講しているデータサイエンス講座であるGCI 2020 Summerにて、優秀修了生に選定された。
-
-### データ分析
-
-- Numpy, Pandasを用いたデータの前処理や分析が得意。
 
 ### バックエンド
 
