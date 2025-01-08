@@ -21,11 +21,12 @@ lang: en
 
 ## Skills
 
-### Machine Learning
+### Data Science / Machine Learning
 
 - Experienced with scikit-learn, LightGBM, and Pytorch, and has participated in data analysis competitions.
 - Extensive experience developing applications using generative AI with LangChain.
 - Interested in MLOps, experimenting with Vertex AI Pipeline and Sagemaker Pipeline as a hobby.
+- Selected as an outstanding graduate of GCI 2020 Summer, a data science course offered by the University of Tokyo's Matsuo Laboratory.
 
 ### Data Analysis
 
@@ -35,6 +36,7 @@ lang: en
 
 - Experience in API development using Python (FastAPI), from starting a service (0->1) to maintaining it.
 - Familiar with Python (Django, Flask), though without practical experience.
+- Experience using Golang.
 
 ### Frontend
 
@@ -44,7 +46,7 @@ lang: en
 ### Database
 
 - Experience with RDB (PostgreSQL) and NoSQL (FireStore, CosmosDB).
-- Participated in ISUCON, with knowledge of index and query performance tuning.
+- Knowledge of performance tuning for indexes and queries.
 
 ### Cloud
 
@@ -59,7 +61,8 @@ lang: en
 
 Interested in a wide range of technologies and studies them as a hobby.
 
-- Participated in ISUCON and gained insights into performance tuning.
+- Participated in AtCoder, a competitive programming contest, and has knowledge of algorithms. (rating: green)
+- Participated in ISUCON, a web service performance tuning contest, and has knowledge about performance tuning. (ISUCON14 134th place/out of 784 teams)
 - Interested in native app development and has developed apps using React Native.
 - Experience in game development using Unity.
 - Interested in IoT, with experience developing using Raspberry Pi.
@@ -113,6 +116,7 @@ Mainly engaged in bug fixes.
 - [Seriously thinking about the backpropagation formula](https://qiita.com/eycjur/items/cfea1d5ae489e03dfb87)(Ja)
 - [Creating a LINE Notify that sends notifications only on rainy days using the Japan Meteorological Agency API](https://qiita.com/eycjur/items/4e4b3cc52e6cc04cc1cc)(Ja)
 - [Tried creating Othello with vue.js](https://qiita.com/eycjur/items/fc195fb9118c658b9770)(Ja)
+- [[Python] Divine function to display function argument names in vscode](https://qiita.com/eycjur/items/bb67d5927755658786c8)
 
 #### Other Materials
 

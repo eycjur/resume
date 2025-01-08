@@ -21,11 +21,12 @@ lang: ja
 
 ## スキル
 
-### 機械学習
+### データサイエンス・機械学習
 
 - scikit-learnやLightGBM、Pytorchの利用経験があり、データ分析コンペティションへの出場経験あり。
 - LangChainを用いた生成AIのアプリケーションの開発経験が豊富。
 - MLOpsに興味があり、Vertex AI PipelineやSagemaker Pipelineを趣味で触っている。
+- 東京大学の松尾研究室が開講しているデータサイエンス講座であるGCI 2020 Summerにて、優秀修了生に選定された。
 
 ### データ分析
 
@@ -35,6 +36,7 @@ lang: ja
 
 - Python(FastAPI)を用いたAPIの開発経験あり。0->1のサービス立ち上げから、運用までを経験。
 - 実務での利用経験はないが、Python(Django, Flask)についても知識がある。
+- Golangの利用経験あり。
 
 ### フロントエンド
 
@@ -44,7 +46,7 @@ lang: ja
 ### データベース
 
 - RDB(PostgreSQL)やNoSQL(FireStore, CosmosDB)を用いた開発経験あり。
-- ISUCONに参加した経験があり、indexやクエリに関するパフォーマンスチューニングの知見がある。
+- indexやクエリに関するパフォーマンスチューニングの知見がある。
 
 ### クラウド
 
@@ -59,7 +61,8 @@ lang: ja
 
 幅広い技術に興味を持ち、趣味で勉強している。
 
-- ISUCONに参加した経験があり、パフォーマンスチューニングに関する知見がある。
+- 競技プログラミングコンテストであるAtCoderに参加しており、アルゴリズムに関する知見がある。（レーティング：緑色）
+- WebサービスのパフォーマンスチューニングコンテストであるISUCONに参加しており、パフォーマンスチューニングに関する知見がある。（ISUCON14 134位/784チーム中）
 - ネイティブアプリの開発にも興味があり、React Nativeを用いたアプリの開発を行っている。
 - Unityを用いたゲーム開発経験あり。
 - IoTにも興味があり、Raspberry Piを用いた開発経験がある。
@@ -113,6 +116,7 @@ lang: ja
 - [誤差逆伝播法の数式を真面目に考える](https://qiita.com/eycjur/items/cfea1d5ae489e03dfb87)
 - [気象庁のAPIを使った雨の日だけ通知してくれるLINE Notifyの作成](https://qiita.com/eycjur/items/4e4b3cc52e6cc04cc1cc)
 - [vue.jsでオセロ作ってみた](https://qiita.com/eycjur/items/fc195fb9118c658b9770)
+- [【Python】VSCodeで関数の引数名を表示する神機能](https://qiita.com/eycjur/items/bb67d5927755658786c8)
 
 #### その他資料
 
