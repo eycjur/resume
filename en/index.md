@@ -68,11 +68,15 @@ Interested in a wide range of technologies and studies them as a hobby.
 
 ## Work Experience
 
-### Leading Data Analysis Company (April 2022 - Present)
+### Leading Data Analysis Company (April 2022 - March 2025)
 
 - Worked as a machine learning engineer, handling projects involving machine learning and generative AI.
 - Particularly adept with generative AI, supporting many clients in chatbot development and generative AI implementation.
 - Backend development using Python, frontend with TypeScript (Vue.js), and primary use of GCP/Azure for cloud services.
+
+### AI Safety Startup (April 2025 - Present)
+- Working as both a Solution Engineer and Software Engineer, I play a key role in connecting pre-sales and product development.
+- I am especially involved in quality evaluation and security for generative AI.
 
 #### Public Entries
 
