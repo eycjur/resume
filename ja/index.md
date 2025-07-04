@@ -19,6 +19,12 @@ lang: ja
 | GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
 | LinkedIn | [https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/](https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/) |
 
+## 著作
+
+- 『[先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル](https://www.amazon.co.jp/dp/4297151006)』 (2025年8月刊行、技術評論社)を共著で執筆
+
+<img src="https://m.media-amazon.com/images/I/71BlmmN9VjL._SY522_.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
+
 ## スキル
 
 ### データサイエンス・機械学習
@@ -84,8 +90,6 @@ lang: ja
 - [GCPで動かしたTabbyをローカルPCで使ってみた](https://www.brainpad.co.jp/doors/contents/01_tech_2023-05-25-153125/)
 
 ## 業務外活動
-
-<!-- ### 著作 -->
 
 ### オープンソース貢献
 

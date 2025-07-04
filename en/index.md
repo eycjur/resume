@@ -19,6 +19,12 @@ lang: en
 | GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
 | LinkedIn | [https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/](https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/) |
 
+## Publications
+
+- Co-authored the book "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/dp/4297151006)" (scheduled for publication in August 2025, Gijutsu-Hyohronsha).
+
+<img src="https://m.media-amazon.com/images/I/71BlmmN9VjL._SY522_.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
+
 ## Skills
 
 ### Data Science / Machine Learning
