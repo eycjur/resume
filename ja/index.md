@@ -67,6 +67,7 @@ lang: ja
 
 - 競技プログラミングコンテストであるAtCoderに参加しており、アルゴリズムに関する知見がある。（レーティング：緑色）
 - WebサービスのパフォーマンスチューニングコンテストであるISUCONに参加しており、パフォーマンスチューニングに関する知見がある。（ISUCON14 134位/784チーム中）
+- セキュリティに関心があり、CTF（Capture The Flag）コンテストに参加している。
 - ネイティブアプリの開発にも興味があり、React Nativeを用いたアプリの開発を行っている。
 - Unityを用いたゲーム開発経験あり。
 - IoTにも興味があり、Raspberry Piを用いた開発経験がある。
@@ -114,7 +115,14 @@ lang: ja
 - Temperature parameter is ignored when temperature=0  
   [langchain-ai/langchain-google/issues/49](https://github.com/langchain-ai/langchain-google/issues/49)
 
-<!-- ### 登壇 -->
+### 登壇
+
+- [Claude Codeで挑むOSSコントリビュート](https://speakerdeck.com/eycjur/claude-codedetiao-muosskontoribiyuto) ((第174回)Python mini Hack-a-thon)
+- [AIコーディングAgentとの向き合い方](https://speakerdeck.com/eycjur/aikodeinguagenttonoxiang-kihe-ifang) (AI コーディングAgent 活用LT会)
+
+### Podcast
+
+- [89. 執筆者でトーク！先輩データサイエンティストからの指南書ってどんな本？ - 白金鉱業.FM](https://shirokane-kougyou.github.io/episode/89)
 
 ### 技術系公開エントリ
 

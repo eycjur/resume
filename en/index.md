@@ -67,6 +67,7 @@ Interested in a wide range of technologies and studies them as a hobby.
 
 - Participated in AtCoder, a competitive programming contest, and has knowledge of algorithms. (rating: green)
 - Participated in ISUCON, a web service performance tuning contest, and has knowledge about performance tuning. (ISUCON14 134th place/out of 784 teams)
+- Participated in CTF (Capture The Flag) contests, showing an interest in security.
 - Interested in native app development and has developed apps using React Native.
 - Experience in game development using Unity.
 - Interested in IoT, with experience developing using Raspberry Pi.
@@ -89,8 +90,6 @@ Interested in a wide range of technologies and studies them as a hobby.
 - [Using Tabby on GCP on a Local PC](https://www.brainpad.co.jp/doors/contents/01_tech_2023-05-25-153125/)(Ja)
 
 ## Activities Outside of Work
-
-<!-- ### Publications -->
 
 ### Open Source Contributions
 
@@ -115,7 +114,14 @@ Mainly engaged in bug fixes.
 - Temperature parameter is ignored when temperature=0  
   [langchain-ai/langchain-google/issues/49](https://github.com/langchain-ai/langchain-google/issues/49)
 
-<!-- ### Speaking Engagements -->
+### Speaking Engagements
+
+- [Taking on OSS Contributions with Claude Code](https://speakerdeck.com/eycjur/claude-codedetiao-muosskontoribiyuto) ((174th) Python mini Hack-a-thon)
+- [How to Work with AI Coding Agents](https://speakerdeck.com/eycjur/aikodeinguagenttonoxiang-kihe-ifang) (AI Coding Agent Utilization LT Meeting)
+
+### Podcast
+
+- [89. Talk with Authors! What Kind of Book is the Guide from Senior Data Scientists? - Shirokane Mining.FM](https://shirokane-kougyou.github.io/episode/89)
 
 ### Technical Publications
 
