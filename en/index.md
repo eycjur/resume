@@ -13,17 +13,17 @@ lang: en
 | --- | --- |
 | Name | kmuto |
 | Birth | 1999/04/16 |
-| URL | [https://eycjur.github.io/resume/en/](https://eycjur.github.io/resume/en/) |
 | X | [https://x.com/eycjur](https://x.com/eycjur) |
-| Qiita | [https://qiita.com/eycjur](https://qiita.com/eycjur) |
 | GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
 | LinkedIn | [https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/](https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/) |
 
 ## Publications
 
-- Co-authored the book "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://gihyo.jp/book/2025/978-4-297-15100-3)" (scheduled for publication in August 2025, Gijutsu-Hyohronsha).
+- Co-authored the book "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (scheduled for publication in August 2025, Gijutsu-Hyohronsha).
 
-<img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
+<a href="https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US">
+  <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
+</a>
 
 ## Skills
 
@@ -81,13 +81,13 @@ Interested in a wide range of technologies and studies them as a hobby.
 - Particularly adept with generative AI, supporting many clients in chatbot development and generative AI implementation.
 - Backend development using Python, frontend with TypeScript (Vue.js), and primary use of GCP/Azure for cloud services.
 
-### AI Safety Startup (April 2025 - Present)
-- Working as both a Solution Engineer and Software Engineer, I play a key role in connecting pre-sales and product development.
-- I am especially involved in quality evaluation and security for generative AI.
-
 #### Public Entries
 
 - [Using Tabby on GCP on a Local PC](https://www.brainpad.co.jp/doors/contents/01_tech_2023-05-25-153125/)(Ja)
+
+### AI Safety Startup (April 2025 - Present)
+- Working as both a Solution Engineer and Software Engineer, I play a key role in connecting pre-sales and product development.
+- I am especially involved in quality evaluation and security for generative AI.
 
 ## Activities Outside of Work
 
@@ -116,8 +116,20 @@ Mainly engaged in bug fixes.
 
 ### Speaking Engagements
 
-- [Taking on OSS Contributions with Claude Code](https://speakerdeck.com/eycjur/claude-codedetiao-muosskontoribiyuto) ((174th) Python mini Hack-a-thon)
-- [How to Work with AI Coding Agents](https://speakerdeck.com/eycjur/aikodeinguagenttonoxiang-kihe-ifang) (AI Coding Agent Utilization LT Meeting)
+<div style="gap: 16px; display: flex; flex-wrap: wrap;">
+  <div style="width: 30%;">
+    Taking on OSS Contributions with Claude Code
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00ea9b6cf14a47acb85c1e16de8ee055" title="Claude Codeで挑むOSSコントリビュート" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
+  <div style="width: 30%;">
+    How to Work with AI Coding Agents
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/575fa4e8d49347af95e309042cad2019" title="AIコーディングAgentとの向き合い方" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
+  <div style="width: 30%;">
+    Creating LINE Stickers with AI
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
+</div>
 
 ### Podcast
 

@@ -13,7 +13,6 @@ lang: ja
 | --- | --- |
 | Name | kmuto |
 | Birth | 1999/04/16 |
-| URL | [https://eycjur.github.io/resume/ja/](https://eycjur.github.io/resume/ja/) |
 | X | [https://x.com/eycjur](https://x.com/eycjur) |
 | Qiita | [https://qiita.com/eycjur](https://qiita.com/eycjur) |
 | GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
@@ -23,7 +22,9 @@ lang: ja
 
 - 『[先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル](https://gihyo.jp/book/2025/978-4-297-15100-3)』 (2025年8月刊行、技術評論社)を共著で執筆
 
-<img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
+<a href="https://gihyo.jp/book/2025/978-4-297-15100-3">
+  <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
+</a>
 
 ## スキル
 
@@ -81,14 +82,14 @@ lang: ja
 - とくに生成AIに精通し、多数の顧客に対して、チャットボットの開発や、生成AIの導入を支援。
 - バックエンドをPython、フロントエンドをTypeScript(Vue.js)で開発し、クラウドはGCP/Azureを主に利用。
 
+#### 公開エントリ
+
+- [GCPで動かしたTabbyをローカルPCで使ってみた](https://www.brainpad.co.jp/doors/contents/01_tech_2023-05-25-153125/)
+
 ### AIセーフティーに関するスタートアップ (2025/04 - 現在)
 
 - Solution Engineer & Software Engineerとして、プリセールスからプロダクト開発までを接続する役割を担う。
 - 特に生成AIの品質評価やセキュリティに携わる。
-
-#### 公開エントリ
-
-- [GCPで動かしたTabbyをローカルPCで使ってみた](https://www.brainpad.co.jp/doors/contents/01_tech_2023-05-25-153125/)
 
 ## 業務外活動
 
@@ -117,8 +118,20 @@ lang: ja
 
 ### 登壇
 
-- [Claude Codeで挑むOSSコントリビュート](https://speakerdeck.com/eycjur/claude-codedetiao-muosskontoribiyuto) ((第174回)Python mini Hack-a-thon)
-- [AIコーディングAgentとの向き合い方](https://speakerdeck.com/eycjur/aikodeinguagenttonoxiang-kihe-ifang) (AI コーディングAgent 活用LT会)
+<div style="gap: 16px; display: flex; flex-wrap: wrap;">
+  <div style="width: 30%;">
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00ea9b6cf14a47acb85c1e16de8ee055" title="Claude Codeで挑むOSSコントリビュート" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+    (第174回)Python mini Hack-a-thon
+  </div>
+  <div style="width: 30%;">
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/575fa4e8d49347af95e309042cad2019" title="AIコーディングAgentとの向き合い方" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+    AI コーディングAgent 活用LT会
+  </div>
+  <div style="width: 30%;">
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+    水道橋 BeerBash
+  </div>
+</div>
 
 ### Podcast
 
@@ -135,4 +148,7 @@ lang: ja
 
 #### その他資料
 
-- [投資家と借り手のマッチングプラットフォームのご提案](https://www.slideshare.net/slideshow/ss-238469947/238469947) (GCI2020 Summer 最終課題)
+<div style="width: 30%;">
+  GCI2020 Summer 最終課題
+  <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+</div>
