@@ -119,15 +119,15 @@ lang: ja
 ### 登壇
 
 <div style="gap: 16px; display: flex; flex-wrap: wrap;">
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00ea9b6cf14a47acb85c1e16de8ee055" title="Claude Codeで挑むOSSコントリビュート" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
     (第174回)Python mini Hack-a-thon
   </div>
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/575fa4e8d49347af95e309042cad2019" title="AIコーディングAgentとの向き合い方" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
     AI コーディングAgent 活用LT会
   </div>
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
     水道橋 BeerBash
   </div>
@@ -148,7 +148,7 @@ lang: ja
 
 #### その他資料
 
-<div style="width: 30%;">
+<div style="width: 500px;">
   GCI2020 Summer 最終課題
   <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 </div>

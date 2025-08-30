@@ -117,15 +117,15 @@ Mainly engaged in bug fixes.
 ### Speaking Engagements
 
 <div style="gap: 16px; display: flex; flex-wrap: wrap;">
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     Taking on OSS Contributions with Claude Code
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00ea9b6cf14a47acb85c1e16de8ee055" title="Claude Codeで挑むOSSコントリビュート" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     How to Work with AI Coding Agents
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/575fa4e8d49347af95e309042cad2019" title="AIコーディングAgentとの向き合い方" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
-  <div style="width: 30%;">
+  <div style="width: 500px;">
     Creating LINE Stickers with AI
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
@@ -146,4 +146,7 @@ Mainly engaged in bug fixes.
 
 #### Other Materials
 
-- [Proposal for a Matching Platform Between Investors and Borrowers](https://www.slideshare.net/slideshow/ss-238469947/238469947) (GCI2020 Summer Final Assignment)(Ja)
+Proposal for a Matching Platform Between Investors and Borrowers (GCI2020 Summer Final Assignment)
+<div style="width: 500px;">
+  <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+</div>
