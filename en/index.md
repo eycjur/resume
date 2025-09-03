@@ -35,6 +35,7 @@ lang: en
 - Extensive experience in developing applications using generative AI, with frequent use of LangChain.
 - Interested in MLOps, experimenting with Vertex AI Pipeline and Sagemaker Pipeline as a hobby.
 - Selected as an outstanding graduate of GCI 2020 Summer, a data science course offered by the University of Tokyo's Matsuo Laboratory.
+- Participated in the Matsuo Lab LLM Development Competition 2025, contributing to the development of LLMs.
 
 ### Backend
 

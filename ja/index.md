@@ -36,6 +36,7 @@ lang: ja
 - 生成AIのアプリケーションの開発経験が豊富で、LangChainを用いることが多い。
 - MLOpsに興味があり、Vertex AI PipelineやSagemaker Pipelineを趣味で触っている。
 - 東京大学の松尾研究室が開講しているデータサイエンス講座であるGCI 2020 Summerにて、優秀修了生に選定された。
+- 松尾研LLM開発コンペ2025に参加し、LLMの開発に携わった。
 
 ### バックエンド
 
