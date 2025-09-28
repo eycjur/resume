@@ -3,7 +3,7 @@ title: kmuto's Self-Introduction
 lang: en
 ---
 
-# Kmuto – Machine Learning, Generative AI & AI Governance Engineer
+# Kmuto - Machine Learning, Generative AI & AI Governance Engineer
 
 Born in 1999. As a Machine Learning Engineer and Solutions/Software Engineer, I work on **generative AI** and **AI governance** product development and implementation.  
 I am interested in a wide range of technologies and actively participate in open-source projects and technical communities.
@@ -30,12 +30,12 @@ I am interested in a wide range of technologies and actively participate in open
 
 ## Work Experience
 
-### Citadel AI (April 2025 – Present)
+### Citadel AI Inc. (April 2025 - Present)
 
 - Working as a Solutions Engineer & Software Engineer, engaged in the development and implementation of AI governance products.
 - Responsible for generative AI quality evaluation, security, and pre-sales, acting as a bridge between customers and products.
 
-### BrainPad Inc. (April 2022 – March 2025)
+### BrainPad Inc. (April 2022 - March 2025)
 
 - Worked as a Machine Learning Engineer, developing systems using machine learning and generative AI.
 - Built backend systems with Python (FastAPI), frontend with TypeScript (Vue.js), and primarily used GCP/Azure for cloud operations.
