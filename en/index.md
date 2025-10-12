@@ -80,6 +80,10 @@ I am interested in a wide range of technologies and actively participate in open
     Creating LINE Stickers with AI
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
+  <div style="width: 500px;">
+    Bridging the Gap Between Theory and Practice
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c0940a17dafe45e6a00be173ae561293" title="理論と実務のギャップを超える" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
 </div>
 
 ### Podcast
