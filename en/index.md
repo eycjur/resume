@@ -28,6 +28,11 @@ I am interested in a wide range of technologies and actively participate in open
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
 </a>
 
+## Awards
+
+- Outstanding Graduate of the University of Tokyo Matsuo Laboratory’s "GCI 2020 Summer"
+- Grand Prize at the Development Organization's Small Improvement Hackathon!
+
 ## Work Experience
 
 ### Citadel AI Inc. (April 2025 - Present)
@@ -55,15 +60,10 @@ I am interested in a wide range of technologies and actively participate in open
 - Participated in AtCoder (Algorithm Green, Heuristic Green), ISUCON14 (134th/784 teams), and CTF competitions.
 - Developed native apps with React Native, games with Unity, IoT with Raspberry Pi; experienced with C, Haskell, Go, AppleScript, Fortran, and assembly languages.
 - Contributed to LLM development at the Matsuo Lab LLM Development Competition 2025.
-- Selected as an outstanding graduate of the University of Tokyo Matsuo Laboratory’s “GCI 2020 Summer” Data Science course.
-
-<div style="width: 500px;">
-  <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-</div>
 
 ### Open Source Contributions
 
-- Submitted multiple PRs mainly to [BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed).
+- Submitted many PRs mainly to [BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed).
 
 ### Speaking Engagements
 
@@ -84,6 +84,16 @@ I am interested in a wide range of technologies and actively participate in open
     Bridging the Gap Between Theory and Practice
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c0940a17dafe45e6a00be173ae561293" title="理論と実務のギャップを超える" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
+  <div style="width: 500px;">
+    Doc Translate - VSCode Extension for Automatic Code Document Translation Using LLMs
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/cd956d3dd42e445689b34a83bfceda5f" title="Doc Translate - LLMを活用したコードドキュメント自動翻訳VSCode拡張機能" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
+  <div style="width: 500px;">
+    Proposal for a Matching Platform for Investors and Borrowers (GCI2020Summer Final Assignment)
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+  </div>
+</div>
+
 </div>
 
 ### Podcast
