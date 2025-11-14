@@ -3,7 +3,7 @@ title: kmuto's Self-Introduction
 lang: en
 ---
 
-# Kmuto - Machine Learning, Generative AI & AI Governance Engineer
+# Kmuto - Machine Learning & Generative AI Engineer
 
 Born in 1999. As a Machine Learning Engineer and Solutions/Software Engineer, I work on **generative AI** and **AI governance** product development and implementation.  
 I am interested in a wide range of technologies and actively participate in open-source projects and technical communities.
@@ -37,14 +37,14 @@ I am interested in a wide range of technologies and actively participate in open
 
 ### Citadel AI Inc. (April 2025 - Present)
 
-- Working as a Solutions Engineer & Software Engineer, engaged in the development and implementation of AI governance products.
-- Responsible for generative AI quality evaluation, security, and pre-sales, acting as a bridge between customers and products.
+- Working as a Solutions Engineer & Software Engineer, engaged in the development and implementation of AI governance (e.g., generative AI quality evaluation, AI security) related products.
+- Also responsible for pre-sales and client implementation support, bridging the gap between clients and products, as well as sales and engineers, proposing and executing activities that enhance the core value of products based on client's needs.
 
 ### BrainPad Inc. (April 2022 - March 2025)
 
 - Worked as a Machine Learning Engineer, developing systems using machine learning and generative AI.
 - Built backend systems with Python (FastAPI), frontend with TypeScript (Vue.js), and primarily used GCP/Azure for cloud operations.
-- Supported many clients with chatbot development and generative AI implementation.
+- Carried out numerous generative AI chatbot development and implementation support, handling everything from requirement gathering to architecture design and implementation.
 
 ## Skills & Expertise
 
@@ -92,8 +92,6 @@ I am interested in a wide range of technologies and actively participate in open
     Proposal for a Matching Platform for Investors and Borrowers (GCI2020Summer Final Assignment)
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
-</div>
-
 </div>
 
 ### Podcast
