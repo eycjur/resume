@@ -23,7 +23,7 @@ lang: ja
 
 ## 著作
 
-- 『[先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル](https://gihyo.jp/book/2025/978-4-297-15100-3)』 (2025年8月刊行、技術評論社)を共著で執筆
+- データサイエンス領域におけるエンジニアリング実務を体系化した技術書『[先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル](https://gihyo.jp/book/2025/978-4-297-15100-3)』 (2025年8月刊行、技術評論社)を共著で執筆
 
 <a href="https://gihyo.jp/book/2025/978-4-297-15100-3">
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
@@ -40,6 +40,7 @@ lang: ja
 
 - Solutions Engineer & Software Engineerとして、AIガバナンス（生成AIの品質評価、AIセキュリティ）関連プロダクトの開発・導入に従事。
 - プリセールスや顧客への導入支援も担当し、顧客とプロダクト、セールスとエンジニアをつなぐ役割を担い、顧客のニーズをもとにプロダクトの本質的な価値の向上に資する活動を提案・実施。
+- NEDOプロジェクトに参画し、AIエージェント技術の開発知見の収集・検討に従事。
 
 ### 株式会社ブレインパッド（2022年4月〜2025年3月）
 
@@ -49,12 +50,12 @@ lang: ja
 
 ## スキル・専門分野
 
-- **データサイエンス・機械学習**：Numpy/Pandasによるデータ前処理・分析、scikit-learn/LightGBM/PyTorch利用、異常検知実務、生成AIアプリ開発（LangChain中心）、Vertex AI PipelineやSageMaker PipelineなどMLOpsツール経験。
+- **データサイエンス・機械学習**：Numpy/Pandasによるデータ前処理・分析、scikit-learn/LightGBM/PyTorch利用、異常検知実務、生成AIアプリ開発（LiteLLM, LangChain）、Vertex AI PipelineやSageMaker PipelineなどMLOpsツール経験。
 - **バックエンド**：Python（FastAPI）でのAPI設計・開発、Golang経験あり。
 - **フロントエンド**：Vue.jsでのSPA、Dash/Streamlitでの高速プロトタイピング。
 - **データベース**：PostgreSQL・FireStore・CosmosDBの実務経験、パフォーマンスチューニング知見。
 - **クラウド/インフラ**：GCP・Azureでのアプリ構築、TerraformによるIaC。
-- **設計・品質**：Clean Architecture・ドメイン駆動設計を意識した保守性・拡張性の高い設計。
+- **設計・品質**：責務分離・疎結合・モジュール化を意識した再利用性・拡張性の高い設計。可用性・保守性・障害耐性を考慮したエンタープライズ向けAIプロダクトの設計・品質管理経験。
 
 ## 実績・活動
 

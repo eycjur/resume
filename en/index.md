@@ -22,7 +22,7 @@ I am interested in a wide range of technologies and actively participate in open
 
 ## Publications
 
-- Co-authored the book "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (Gijutsu-Hyoronsha, August 2025).
+- Co-authored a technical book that systematizes engineering practices in the data science domain: "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (Gijutsu-Hyoronsha, August 2025).
 
 <a href="https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US">
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
@@ -39,6 +39,7 @@ I am interested in a wide range of technologies and actively participate in open
 
 - Working as a Solutions Engineer & Software Engineer, engaged in the development and implementation of AI governance (e.g., generative AI quality evaluation, AI security) related products.
 - Also responsible for pre-sales and client implementation support, bridging the gap between clients and products, as well as sales and engineers, proposing and executing activities that enhance the core value of products based on client's needs.
+- Participated in NEDO projects, contributing to the collection and examination of development knowledge on AI agent technology.
 
 ### BrainPad Inc. (April 2022 - March 2025)
 
@@ -48,12 +49,12 @@ I am interested in a wide range of technologies and actively participate in open
 
 ## Skills & Expertise
 
-- **Data Science / Machine Learning**: Data preprocessing and analysis with Numpy/Pandas; experience with scikit-learn/LightGBM/PyTorch; anomaly detection; generative AI app development (LangChain); MLOps tools such as Vertex AI Pipeline and SageMaker Pipeline.
+- **Data Science / Machine Learning**: Data preprocessing and analysis with Numpy/Pandas; experience with scikit-learn/LightGBM/PyTorch; anomaly detection; generative AI app development (LiteLLM, LangChain); MLOps tools such as Vertex AI Pipeline and SageMaker Pipeline.
 - **Backend**: API design and development with Python (FastAPI); experience with Golang.
 - **Frontend**: SPA development with Vue.js; rapid prototyping with Dash/Streamlit.
 - **Database**: Experience with PostgreSQL, FireStore, and CosmosDB; performance tuning knowledge.
 - **Cloud / Infrastructure**: Building applications on GCP and Azure; IaC with Terraform.
-- **Design / Quality**: Interested in Clean Architecture and Domain-Driven Design, focusing on maintainable, extensible, and low technical debt designs.
+- **Design / Quality**: Design focused on separation of concerns, loose coupling, and modularity for high reusability and extensibility. Experience in designing and quality management for enterprise AI products with availability, maintainability, and fault tolerance in mind.
 
 ## Achievements & Activities
 
