@@ -89,6 +89,10 @@ lang: ja
     開発組織のぷち改善ハッカソン！
   </div>
   <div style="width: 500px;">
+    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b6e11a6629b9423782804fcd3c079489" title="生成AIアプリの精度向上ワークフロー - プロンプトの自動最適化による改善基盤の構築" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+    Agent開発を支えるツール構築Hackaton
+  </div>
+  <div style="width: 500px;">
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c146d8cdb87d45539403a65c7cc5222e" title="[GCI2020Summer 最終課題]投資家と借り手のマッチングプラットフォームのご提案" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
     GCI2020 Summer 最終課題
   </div>
