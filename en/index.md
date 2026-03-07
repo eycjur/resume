@@ -90,7 +90,7 @@ I am interested in a wide range of technologies and actively participate in open
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/cd956d3dd42e445689b34a83bfceda5f" title="Doc Translate - LLMを活用したコードドキュメント自動翻訳VSCode拡張機能" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
     <div style="width: 500px;">
-    Agent Development Tooling Hackathon
+    Building a Workflow to Improve the Gen AI App through Prompt Optimization
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b6e11a6629b9423782804fcd3c079489" title="生成AIアプリの精度向上ワークフロー - プロンプトの自動最適化による改善基盤の構築" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
   </div>
   <div style="width: 500px;">
