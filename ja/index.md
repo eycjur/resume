@@ -29,11 +29,6 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
 </a>
 
-## 受賞歴
-
-- 東京大学 松尾研究室「GCI 2020 Summer」優秀修了生
-- 開発組織のぷち改善ハッカソン！ 最優秀賞
-
 ## 職務経歴
 
 ### 株式会社Citadel AI（2025年4月〜現在）
@@ -50,16 +45,21 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 
 ## スキル・専門分野
 
-- **データサイエンス・機械学習**：Numpy/Pandasによるデータ前処理・分析、scikit-learn/LightGBM/PyTorchによる機械学習モデルの構築、生成AIアプリ開発（LiteLLM, LangChain）、Vertex AI PipelineやSageMaker Pipelineを用いたMLOpsの実践経験。
+- **データサイエンス・機械学習**：Numpy/Pandasによるデータ前処理・分析、scikit-learn/LightGBM/PyTorchによる機械学習モデルの構築、Vertex AI PipelineやSageMaker Pipelineを用いたMLOpsの実践経験。
+- **生成AI/AIエージェント**：LiteLLM, LangChainなどを用いたLLM, RAG, AIエージェントの開発・精度チューニング経験。
 - **バックエンド**：Python（FastAPI, Flask）でのAPI設計・開発、Golang経験あり。
-- **フロントエンド**：Vue.js/SvelteでのSPA、Dash/Streamlitでの高速プロトタイピング。
 - **データベース**：PostgreSQL・FireStore・CosmosDBの実務経験、パフォーマンスチューニング知見。
+- **フロントエンド**：Vue.js/SvelteでのSPA、Dash/Streamlitでの高速プロトタイピング。Lighthouseを用いたパフォーマンスチューニング。
 - **クラウド/インフラ**：GCP・Azureでのアプリ構築、TerraformによるIaC。
 - **設計・品質**：責務分離・疎結合・モジュール化を意識した再利用性・拡張性の高い設計。可用性・保守性・障害耐性を考慮したエンタープライズ向けAIプロダクトの設計・品質管理経験。
 
 ## 実績・活動
 
-- AtCoder（Algo緑、Heu緑）、ISUCON14 134位/784チーム、CTFにも参加。
+- 東京大学 松尾研究室「GCI 2020 Summer」優秀修了生
+- 開発組織のぷち改善ハッカソン！ 最優秀賞
+- 競技プログラミング：AtCoder（Algo緑、Heu水）
+- バックエンドパフォーマンスチューニング：ISUCON14 134位/784チーム
+- CTFやフロントエンドパフォーマンスチューニング（Web Speed Hackathon）にも参加。
 - React Nativeでネイティブアプリ開発、Unityでゲーム開発、IoT開発（Raspberry Pi）、C/Haskell/Go/AppleScript/Fortran/アセンブリなど多様な言語経験。
 - 松尾研LLM開発コンペ2025に参加し、基盤モデルの学習にも携わる。
 
@@ -68,18 +68,6 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 
 ### 登壇・発表
 <div style="gap: 16px; display: flex; flex-wrap: wrap;">
-  <div style="width: 500px;">
-    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/00ea9b6cf14a47acb85c1e16de8ee055" title="Claude Codeで挑むOSSコントリビュート" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-    (第174回)Python mini Hack-a-thon
-  </div>
-  <div style="width: 500px;">
-    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/575fa4e8d49347af95e309042cad2019" title="AIコーディングAgentとの向き合い方" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-    AI コーディングAgent 活用LT会
-  </div>
-  <div style="width: 500px;">
-    <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/527e579fe27e4823a97af0efe595b726" title="AIでLINEスタンプを作ってみた" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 8px 0; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
-    水道橋 BeerBash
-  </div>
   <div style="width: 500px;">
     <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c0940a17dafe45e6a00be173ae561293" title="理論と実務のギャップを超える" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
     第58回 情報科学若手の会
@@ -97,6 +85,8 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
     GCI2020 Summer 最終課題
   </div>
 </div>
+
+など多数
 
 ### Podcast
 
