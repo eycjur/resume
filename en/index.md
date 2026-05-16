@@ -8,8 +8,8 @@ lang: en
 After working on system development leveraging **machine learning and generative AI**, I am now engaged in **AI governance** product development and implementation support. I have consistently taken ownership of the full AI application lifecycle—from AI system design and algorithm implementation to backend development, cloud infrastructure setup, and system deployment. I also actively share technical knowledge through OSS activities, participation in technical communities, and publishing technical books. I was born on April 16, 1999.
 
 <div class="sns-links" markdown="0">
-  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
-  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/simple-icons:github.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
   <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
 </div>
 
@@ -17,7 +17,7 @@ After working on system development leveraging **machine learning and generative
 
 ## Publications
 
-- Co-authored a technical book that systematizes engineering practices in the data science domain: "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (Gijutsu-Hyoronsha, August 2025).
+- Co-authored a technical book that systematizes engineering practices in the data science domain: "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (Gijutsu-Hyohron Co., Ltd., August 2025).
 
 <a href="https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US">
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="Guide from Senior Data Scientists - Engineering Skills to Survive in Practice" width="200px" />
