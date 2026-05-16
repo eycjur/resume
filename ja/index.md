@@ -6,20 +6,18 @@ lang: ja
 # Kmuto - 機械学習・生成AIエンジニア
 
 **機械学習や生成AI**を活用したシステム開発に従事した後、**AIガバナンス**のプロダクト開発・導入支援に携わる。AIシステムの設計やアルゴリズムの実装から、バックエンド開発、クラウド環境の構築、システム導入までAIアプリケーションのライフサイクル全体を一貫して担当。
-OSS活動や技術コミュニティへの参加、技術書の執筆などを通じて技術知見の発信にも積極的に取り組み中。
+OSS活動や技術コミュニティへの参加、技術書の執筆などを通じて技術知見の発信にも積極的に取り組み中。1999年4月16日生まれ。
+
+<div class="sns-links" markdown="0">
+  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://qiita.com/eycjur" target="_blank" rel="noopener noreferrer" title="Qiita" aria-label="Qiita"><img src="https://api.iconify.design/simple-icons:qiita.svg?color=%2355C500" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/simple-icons:github.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+</div>
+
+<br>
 
 [Switch to English](../en/)
-
-## 基本情報
-
-| 項目 | 内容 |
-| --- | --- |
-| Name | Kmuto |
-| Birth | 1999/04/16 |
-| X | [https://x.com/eycjur](https://x.com/eycjur) |
-| Qiita | [https://qiita.com/eycjur](https://qiita.com/eycjur) |
-| GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
-| LinkedIn | [https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/](https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/) |
 
 ## 著作
 
@@ -36,6 +34,7 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 - Software Engineer & Solutions Engineer として、AIガバナンス（生成AIの品質評価・AIセキュリティ）に関するプロダクトの開発と並行して、プリセールスやPoC・導入支援を担当。
 - 顧客とプロダクト開発、セールスとエンジニアリングの橋渡し役として、顧客課題を踏まえたプロダクトの方向性の提案やプロダクト戦略の策定にも携わり、新規顧客獲得および既存顧客へのアップセルを実現。
 - NEDOプロジェクトに参画し、AIエージェントの開発技術に関する調査・研究に従事。
+- 社内の公用語は英語。流暢に話せるわけではないが、英語でのミーティングやドキュメントを含む日々の業務に対応。
 
 ### 株式会社ブレインパッド（2022年4月〜2025年3月）
 
@@ -56,10 +55,11 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 ## 実績・活動
 
 - 東京大学 松尾研究室「GCI 2020 Summer」優秀修了生
+- クラウドネイティブ会議 GameDay 優勝
 - 開発組織のぷち改善ハッカソン！ 最優秀賞
-- 競技プログラミング：AtCoder（Algo緑、Heu水）
-- バックエンドパフォーマンスチューニング：ISUCON14 134位/784チーム
-- CTFやフロントエンドパフォーマンスチューニング（Web Speed Hackathon）にも参加。
+- AtCoder（競技プログラミング）：Algo緑、Heu水
+- ISUCON14（パフォーマンスチューニングコンテスト）：134位/784チーム
+- CTFやフロントエンドパフォーマンスチューニングコンテスト（Web Speed Hackathon）にも参加。
 - React Nativeでネイティブアプリ開発、Unityでゲーム開発、IoT開発（Raspberry Pi）、C/Haskell/Go/AppleScript/Fortran/アセンブリなど多様な言語経験。
 - 松尾研LLM開発コンペ2025に参加し、基盤モデルの学習にも携わる。
 

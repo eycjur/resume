@@ -5,19 +5,15 @@ lang: en
 
 # Kmuto - Machine Learning & Generative AI Engineer
 
-After working on system development leveraging **machine learning and generative AI**, I am now engaged in **AI governance** product development and implementation support. I have consistently taken ownership of the full AI application lifecycle—from AI system design and algorithm implementation to backend development, cloud infrastructure setup, and system deployment. I also actively share technical knowledge through OSS activities, participation in technical communities, and publishing technical books.
+After working on system development leveraging **machine learning and generative AI**, I am now engaged in **AI governance** product development and implementation support. I have consistently taken ownership of the full AI application lifecycle—from AI system design and algorithm implementation to backend development, cloud infrastructure setup, and system deployment. I also actively share technical knowledge through OSS activities, participation in technical communities, and publishing technical books. I was born on April 16, 1999.
+
+<div class="sns-links" markdown="0">
+  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/simple-icons:github.svg?color=white" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+</div>
 
 [日本語へ切り替え](../ja/)
-
-## Basic Information
-
-| Item | Details |
-| --- | --- |
-| Name | Kmuto |
-| Birth | 1999/04/16 |
-| X | [https://x.com/eycjur](https://x.com/eycjur) |
-| GitHub | [https://github.com/eycjur](https://github.com/eycjur) |
-| LinkedIn | [https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/](https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/) |
 
 ## Publications
 
@@ -34,6 +30,7 @@ After working on system development leveraging **machine learning and generative
 - Working as a Software Engineer & Solutions Engineer, engaged in AI governance (generative AI quality evaluation, AI security) product development in parallel with pre-sales, PoC, and implementation support.
 - Acting as a bridge between clients and product development, as well as sales and engineering, proposing product direction and strategy based on customer challenges, and contributing to new customer acquisition and upsells to existing customers.
 - Participated in NEDO projects, conducting research and investigation on AI agent development technologies.
+- English is the company’s working language; while I am not fully fluent, I handle day-to-day work including meetings and documentation in English.
 
 ### BrainPad Inc. (April 2022 - March 2025)
 
@@ -54,12 +51,11 @@ After working on system development leveraging **machine learning and generative
 ## Achievements & Activities
 
 - Outstanding Graduate of the University of Tokyo Matsuo Laboratory’s "GCI 2020 Summer"
+- First place, GameDay at the Cloud Native Conference
 - Grand Prize at the Development Organization's Small Improvement Hackathon!
-- Competitive Programming: AtCoder (Algorithm Green, Heuristic Light Blue)
-- Backend Performance Tuning: ISUCON14 (134th/784 teams)
-- Also participated in CTF and frontend performance tuning (Web Speed Hackathon).
-- Developed native apps with React Native, games with Unity, IoT with Raspberry Pi; experienced with C, Haskell, Go, AppleScript, Fortran, and assembly languages.
-- Participated in the Matsuo Lab LLM Development Competition 2025, contributing to foundation model training.
+- Participated in AtCoder (competitive programming): Algorithm Green, Heuristic Cyan; ISUCON14 (performance tuning contest): 134th/784 teams; CTF competitions; and frontend performance tuning contests such as Web Speed Hackathon.
+- Developed native apps with React Native, games with Unity, IoT development with Raspberry Pi; experienced with diverse languages including C, Haskell, Go, AppleScript, Fortran, and assembly.
+- Participated in the Matsuo Lab LLM Development Competition 2025, contributing to LLM development including foundation model training.
 
 ### Open Source Contributions
 
