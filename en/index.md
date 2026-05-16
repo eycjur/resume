@@ -8,9 +8,9 @@ lang: en
 After working on system development leveraging **machine learning and generative AI**, I am now engaged in **AI governance** product development and implementation support. I have consistently taken ownership of the full AI application lifecycle—from AI system design and algorithm implementation to backend development, cloud infrastructure setup, and system deployment. I also actively share technical knowledge through OSS activities, participation in technical communities, and publishing technical books. I was born on April 16, 1999.
 
 <div class="sns-links" markdown="0">
-  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
-  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/ri:github-fill.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
-  <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a class="icon-link" href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/ri:twitter-x-fill.svg" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a class="icon-link" href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/ri:github-fill.svg" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a class="icon-link" href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
 </div>
 
 [日本語へ切り替え](../ja/)
