@@ -9,10 +9,10 @@ lang: ja
 OSS活動や技術コミュニティへの参加、技術書の執筆などを通じて技術知見の発信にも積極的に取り組み中。1999年4月16日生まれ。
 
 <div class="sns-links" markdown="0">
-  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
   <a href="https://qiita.com/eycjur" target="_blank" rel="noopener noreferrer" title="Qiita" aria-label="Qiita"><img src="https://api.iconify.design/simple-icons:qiita.svg?color=%2355C500" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
-  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
-  <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub"><img src="https://api.iconify.design/ri:github-fill.svg?color=%23ffffff" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
+  <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
 </div>
 
 <br>
