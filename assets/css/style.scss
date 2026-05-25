@@ -20,10 +20,19 @@
 }
 
 #lang_switch_banner {
-  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 14px;
   color: #fff;
-  background: #555;
+  font-size: 14px;
   font-weight: 700;
+  line-height: 1;
+  background: #555;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   text-decoration: none;
+}
+
+#lang_switch_banner .lang-flag {
+  font-size: 18px;
 }
