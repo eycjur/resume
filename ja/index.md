@@ -15,10 +15,6 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
   <a class="icon-link" href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
 </div>
 
-<br>
-
-[Switch to English](../en/)
-
 ## 著作
 
 - データサイエンス領域におけるエンジニアリング実務を体系化した技術書『[先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル](https://gihyo.jp/book/2025/978-4-297-15100-3)』 (2025年8月刊行、技術評論社)を共著で執筆
@@ -33,7 +29,7 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 
 - Software Engineer & Solutions Engineer として、AIガバナンス（生成AIの品質評価・AIセキュリティ）に関するプロダクトの開発と並行して、プリセールスやPoC・導入支援を担当。
 - 顧客とプロダクト開発、セールスとエンジニアリングの橋渡し役として、顧客課題を踏まえたプロダクトの方向性の提案やプロダクト戦略の策定にも携わり、新規顧客獲得および既存顧客へのアップセルを実現。
-- NEDOプロジェクトに参画し、AIエージェントの開発技術に関する調査・研究に従事。
+- NEDO事業「AIの安全性確保に関する研究開発」に参画し、生成AIの品質・安全性・ガバナンスに関する調査・研究を行い、成果物として[生成 AI 実践ガイドと企業事例集](https://citadel-ai.com/ja/news/2026/04/03/gen-ai-practical-guide/)を公開。
 - 社内の公用語は英語。流暢に話せるわけではないが、英語でのミーティングやドキュメントを含む日々の業務に対応。
 
 ### 株式会社ブレインパッド（2022年4月〜2025年3月）
@@ -64,7 +60,7 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 - 松尾研LLM開発コンペ2025に参加し、基盤モデルの学習にも携わる。
 
 ### オープンソース貢献
-- [BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed) などを中心に多数のPRを提出。
+- バグ修正や機能改善を中心に、各種OSSプロジェクトへPRを提出。[BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed)では、LLMプロバイダ対応やObservability連携の改善などに特に積極的に貢献。
 
 ### 登壇・発表
 <div style="gap: 16px; display: flex; flex-wrap: wrap;">

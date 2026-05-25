@@ -13,8 +13,6 @@ After working on system development leveraging **machine learning and generative
   <a class="icon-link" href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn"><img src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=%230A66C2" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
 </div>
 
-[日本語へ切り替え](../ja/)
-
 ## Publications
 
 - Co-authored a technical book that systematizes engineering practices in the data science domain: "[Guide from Senior Data Scientists - Engineering Skills to Survive in Practice](https://www.amazon.co.jp/o/ASIN/4297151006?language=en_US)" (Gijutsu-Hyohron Co., Ltd., August 2025).
@@ -29,7 +27,7 @@ After working on system development leveraging **machine learning and generative
 
 - Working as a Software Engineer & Solutions Engineer, engaged in AI governance (generative AI quality evaluation, AI security) product development in parallel with pre-sales, PoC, and implementation support.
 - Acting as a bridge between clients and product development, as well as sales and engineering, proposing product direction and strategy based on customer challenges, and contributing to new customer acquisition and upsells to existing customers.
-- Participated in NEDO projects, conducting research and investigation on AI agent development technologies.
+- Participated in a NEDO project on AI safety, conducting research on generative AI quality, safety, and governance, and contributed to the publication of the [Generative AI Practical Guide and Case Studies](https://citadel-ai.com/ja/news/2026/04/03/gen-ai-practical-guide/).
 - English is the company’s working language; while I am not fully fluent, I handle day-to-day work including meetings and documentation in English.
 
 ### BrainPad Inc. (April 2022 - March 2025)
@@ -59,7 +57,7 @@ After working on system development leveraging **machine learning and generative
 
 ### Open Source Contributions
 
-- Submitted numerous PRs mainly to [BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed).
+- Contribute bug fixes and feature improvements across multiple open-source projects, with particularly active contributions to [BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed)—including LLM provider integrations and observability enhancements.
 
 ### Speaking Engagements
 <div style="gap: 16px; display: flex; flex-wrap: wrap;">

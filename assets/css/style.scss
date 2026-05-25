@@ -6,3 +6,24 @@
 .inner {
   max-width: 1024px;
 }
+
+#header_actions {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  z-index: 10;
+  display: flex;
+}
+
+#header_actions #forkme_banner {
+  position: static;
+}
+
+#lang_switch_banner {
+  padding: 10px 16px;
+  color: #fff;
+  background: #555;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
