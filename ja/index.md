@@ -3,10 +3,10 @@ title: kmutoの自己紹介
 lang: ja
 ---
 
-# Kmuto - 機械学習・生成AIエンジニア
+# Kmuto - ソフトウェアエンジニア@理化学研究所
 
-**機械学習や生成AI**を活用したシステム開発に従事した後、**AIガバナンス**のプロダクト開発・導入支援に携わる。AIシステムの設計やアルゴリズムの実装から、バックエンド開発、クラウド環境の構築、システム導入までAIアプリケーションのライフサイクル全体を一貫して担当。
-OSS活動や技術コミュニティへの参加、技術書の執筆などを通じて技術知見の発信にも積極的に取り組み中。1999年4月16日生まれ。
+**機械学習や生成AI**を活用したシステム開発や**AIガバナンス**のプロダクト開発に従事したのち、ソフトウェアエンジニアとして**AI for Science**の領域に携わる。AIシステムやアルゴリズムの考案・実装から、バックエンド開発、クラウド環境の構築、システム導入までAIアプリケーションのライフサイクル全体を一貫して担当。
+OSS活動や技術コミュニティへの参加、技術書の執筆などを通じて技術知見の発信にも積極的に取り組み中。1999年生まれ。
 
 <div class="sns-links" markdown="0">
   <a class="icon-link" href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer" title="X" aria-label="X"><img src="https://api.iconify.design/ri:twitter-x-fill.svg" alt="" width="28" height="28" loading="lazy" decoding="async"></a>
@@ -23,16 +23,29 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
   <img src="https://gihyo.jp/assets/images/cover/2025/9784297151003.jpg" alt="先輩データサイエンティストからの指南書 -実務で生き抜くためのエンジニアリングスキル" width="200px" />
 </a>
 
+## 受賞歴
+
+- 東京大学 松尾研究室「GCI 2020 Summer」優秀修了生
+- クラウドネイティブ会議 GameDay 優勝
+- 開発組織のぷち改善ハッカソン！ 最優秀賞
+- Nano Banana AI Creator Workshop & CM Challenge 特別賞
+- AtCoder（競技プログラミング）：Algo緑、Heu水
+- ISUCON14（パフォーマンスチューニングコンテスト）：134位/784チーム
+
 ## 職務経歴
 
-### 株式会社Citadel AI（2025年4月〜現在）
+### 理化学研究所
+
+- リサーチエンジニアとしてAI for Science分野における研究に取り組む。
+
+### 株式会社Citadel AI
 
 - Software Engineer & Solutions Engineer として、AIガバナンス（生成AIの品質評価・AIセキュリティ）に関するプロダクトの開発と並行して、プリセールスやPoC・導入支援を担当。
 - 顧客とプロダクト開発、セールスとエンジニアリングの橋渡し役として、顧客課題を踏まえたプロダクトの方向性の提案やプロダクト戦略の策定にも携わり、新規顧客獲得および既存顧客へのアップセルを実現。
 - NEDO事業「AIの安全性確保に関する研究開発」に参画し、生成AIの品質・安全性・ガバナンスに関する調査・研究を行い、成果物として[生成 AI 実践ガイドと企業事例集](https://citadel-ai.com/ja/news/2026/04/03/gen-ai-practical-guide/)を公開。
 - 社内の公用語は英語。流暢に話せるわけではないが、英語でのミーティングやドキュメントを含む日々の業務に対応。
 
-### 株式会社ブレインパッド（2022年4月〜2025年3月）
+### 株式会社ブレインパッド
 
 - 機械学習エンジニアとして、製造業・小売・金融業を中心に、機械学習や生成AI/AIエージェントを活用した多数のPoCやシステム開発プロジェクトにメンバーや開発リードとして参画。
 - アルゴリズムの実装や精度チューニングを行うことで、顧客の課題解決に貢献し、プロジェクトの継続や拡大に貢献。
@@ -41,23 +54,15 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 ## スキル・専門分野
 
 - **データサイエンス・機械学習**：Numpy/Pandasによるデータ前処理・分析、scikit-learn/LightGBM/PyTorchによる機械学習モデルの構築、Vertex AI PipelineやSageMaker Pipelineを用いたMLOpsの実践経験。
-- **生成AI/AIエージェント**：LiteLLM, LangChainなどを用いたLLM, RAG, AIエージェントの開発・精度チューニング経験。
+- **生成AI/AIエージェント**：LiteLLM, LangChainなどを用いたLLM, RAG, AIエージェントの開発・精度チューニング経験。また、松尾研LLM開発コンペ2025に参加し、基盤モデルの学習にも携わる。
 - **バックエンド**：Python（FastAPI, Flask）でのAPI設計・開発、Golang経験あり。
 - **データベース**：PostgreSQL・FireStore・CosmosDBの実務経験、パフォーマンスチューニング知見。
 - **フロントエンド**：Vue.js/SvelteでのSPA、Dash/Streamlitでの高速プロトタイピング。Lighthouseを用いたパフォーマンスチューニング。
 - **クラウド/インフラ**：GCP・Azureでのアプリ構築、TerraformによるIaC。
+- **セキュリティ**：AIセキュリティに関しての知見がある。また、CTFにも参加している。
 - **設計・品質**：責務分離・疎結合・モジュール化を意識した再利用性・拡張性の高い設計。可用性・保守性・障害耐性を考慮したエンタープライズ向けAIプロダクトの設計・品質管理経験。
 
-## 実績・活動
-
-- 東京大学 松尾研究室「GCI 2020 Summer」優秀修了生
-- クラウドネイティブ会議 GameDay 優勝
-- 開発組織のぷち改善ハッカソン！ 最優秀賞
-- AtCoder（競技プログラミング）：Algo緑、Heu水
-- ISUCON14（パフォーマンスチューニングコンテスト）：134位/784チーム
-- CTFやフロントエンドパフォーマンスチューニングコンテスト（Web Speed Hackathon）にも参加。
-- React Nativeでネイティブアプリ開発、Unityでゲーム開発、IoT開発（Raspberry Pi）、C/Haskell/Go/AppleScript/Fortran/アセンブリなど多様な言語経験。
-- 松尾研LLM開発コンペ2025に参加し、基盤モデルの学習にも携わる。
+## 活動
 
 ### オープンソース貢献
 - バグ修正や機能改善を中心に、各種OSSプロジェクトへPRを提出。[BerriAI/litellm](https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed)では、LLMプロバイダ対応やObservability連携の改善などに特に積極的に貢献。
