@@ -92,3 +92,5 @@ OSS活動や技術コミュニティへの参加、技術書の執筆などを�
 ### Podcast
 
 - [89. 執筆者でトーク！先輩データサイエンティストからの指南書ってどんな本？ - 白金鉱業.FM](https://shirokane-kougyou.github.io/episode/89)
+
+<p class="products-aside"><a href="{{ '/ja/products/' | relative_url }}">プロダクト集</a></p>

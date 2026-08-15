@@ -36,3 +36,141 @@
 #lang_switch_banner .lang-flag {
   font-size: 18px;
 }
+
+.products-aside {
+  margin: 48px 0 0;
+  color: #888;
+  font-size: 13px;
+}
+
+.products-aside a {
+  color: #888;
+  text-decoration: none;
+  border-bottom: 1px dotted #aaa;
+}
+
+.products-aside a:hover {
+  color: #373737;
+  border-bottom-color: #373737;
+}
+
+.product {
+  margin: 40px 0 56px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.product:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+.product-label {
+  margin: 0 0 6px;
+  color: #666;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.product h2 {
+  margin-top: 0;
+}
+
+.product-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
+}
+
+.product-title h2 {
+  margin: 0;
+}
+
+.product-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.product-media {
+  display: inline-block;
+  margin: 16px 0;
+  border-radius: 8px;
+}
+
+.product-media img,
+.product video.product-media {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.product-phones {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  margin: 16px 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+
+.product-phones img {
+  flex-shrink: 0;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.sticker-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  max-width: 520px;
+  margin: 16px 0;
+}
+
+.sticker-grid img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+}
+
+.product-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 0;
+}
+
+.product-btn {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 4px;
+  background: #373737;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.product-btn:hover {
+  background: #111;
+  color: #fff;
+}
+
+.product-btn-ghost {
+  background: #fff;
+  color: #373737;
+  border: 1px solid #373737;
+}
+
+.product-btn-ghost:hover {
+  background: #373737;
+  color: #fff;
+}
+

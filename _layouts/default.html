@@ -18,12 +18,12 @@
         <header class="inner">
           <div id="header_actions">
             {% if page.lang == 'ja' %}
-              <a id="lang_switch_banner" href="{{ '/en/' | relative_url }}" aria-label="Switch to English"><span class="lang-flag">🇺🇸</span><span class="lang-label">Switch to English</span></a>
+              <a id="lang_switch_banner" href="{{ '/en/' | relative_url }}" aria-label="Switch to English"><span class="lang-flag">🇺🇸</span><span class="lang-label">English</span></a>
             {% elsif page.lang == 'en' %}
-              <a id="lang_switch_banner" href="{{ '/ja/' | relative_url }}" aria-label="日本語に切り替え"><span class="lang-flag">🇯🇵</span><span class="lang-label">日本語に切り替え</span></a>
+              <a id="lang_switch_banner" href="{{ '/ja/' | relative_url }}" aria-label="日本語に切り替え"><span class="lang-flag">🇯🇵</span><span class="lang-label">日本語</span></a>
             {% endif %}
             {% if site.github.is_project_page %}
-              <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+              <a id="forkme_banner" href="{{ site.github.repository_url }}">GitHub</a>
             {% endif %}
           </div>
 

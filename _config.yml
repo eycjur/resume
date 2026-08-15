@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
