@@ -10,21 +10,21 @@ permalink: /ja/products/
 プライベートで作成しているプロダクト集です。
 
 <div class="product" markdown="0">
-  <p class="product-label">iOSアプリ（ストア申請中）</p>
+  <p class="product-label">iOSアプリ</p>
   <div class="product-title">
     <img class="product-icon" src="{{ '/assets/products/infinite-alarm/icon.png' | relative_url }}" alt="" width="36" height="36">
     <h2>無限アラーム</h2>
   </div>
   <p>設定は1回、アラームは何度でも。「7時から5分おきに3回」のように、開始時刻、間隔、回数を一度決めると、その回数だけ連続で鳴ります。二度寝しやすい朝向けです。</p>
-  <p>標準の時計アプリと同じ仕組みで鳴らすので、マナーモードや集中モードでも止まりません。明日だけ休みたいときは、次回だけスキップできます。</p>
-  <p>いま App Store の審査待ちです。公開されたら、このページからダウンロードできるようにします。iOS 26以降で使えます。</p>
+  <p>標準の時計アプリと同じ仕組みで鳴らすので、マナーモードや集中モードでも止まりません。明日だけ休みたいときは、次回だけスキップできます。iOS 26以降で使えます。</p>
   <div class="product-phones">
     <img src="{{ '/assets/products/infinite-alarm/01.png' | relative_url }}" alt="無限アラームの一覧。7時から1分おきに10回など、連続で鳴る設定が見える" width="180" height="391">
     <img src="{{ '/assets/products/infinite-alarm/02.png' | relative_url }}" alt="間隔と回数を指定する画面" width="180" height="391">
     <img src="{{ '/assets/products/infinite-alarm/03.png' | relative_url }}" alt="次回だけスキップする画面" width="180" height="391">
   </div>
   <p class="product-actions">
-    <a class="product-btn" href="https://eycjur.github.io/infinite-alarm-pages/ja/" target="_blank" rel="noopener noreferrer">紹介ページを見る</a>
+    <a class="product-btn" href="https://apps.apple.com/jp/app/%E7%84%A1%E9%99%90%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97/id6799426264" target="_blank" rel="noopener noreferrer">App Storeで見る</a>
+    <a class="product-btn product-btn-ghost" href="https://eycjur.github.io/infinite-alarm-pages/ja/" target="_blank" rel="noopener noreferrer">紹介ページを見る</a>
   </p>
 </div>
 
