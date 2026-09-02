@@ -1,0 +1,129 @@
+// ---------------------------------------------------------------
+// Value-proposition components: value grid, journey, stack, outro
+// ---------------------------------------------------------------
+
+.section-lede {
+  max-width: 40em;
+  margin: -16px 0 44px;
+  color: var(--ink-soft);
+}
+
+// ---- Value propositions --------------------------------------
+
+.value-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 44px 36px;
+}
+
+.value h3 {
+  margin: 0 0 12px;
+  font-size: 19px;
+  line-height: 1.5;
+}
+
+.value > p {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.9;
+  color: var(--ink-soft);
+}
+
+.value-proof {
+  margin: 18px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.proof-label {
+  margin-right: 8px;
+  color: var(--accent);
+  letter-spacing: 0.1em;
+}
+
+// ---- Journey (narrative timeline) ----------------------------
+
+.timeline-body {
+  max-width: 46em;
+  margin: 10px 0 0;
+  font-size: 15px;
+  color: var(--ink-soft);
+}
+
+// ---- Stack ---------------------------------------------------
+
+.stack {
+  display: grid;
+  gap: 18px;
+}
+
+.stack-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px 16px;
+}
+
+.stack-label {
+  flex: 0 0 150px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex: 1;
+  min-width: 240px;
+}
+
+.chip {
+  padding: 3px 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 13px;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+// ---- Outro (contact) -----------------------------------------
+
+.outro {
+  margin: 104px 0 0;
+  padding-top: 56px;
+  border-top: 1px solid var(--line);
+}
+
+.outro h2 {
+  margin: 0 0 16px;
+  font-size: clamp(28px, 5vw, 40px);
+  letter-spacing: 0.01em;
+}
+
+.outro p {
+  max-width: 40em;
+  margin: 0 0 28px;
+  color: var(--ink-soft);
+}
+
+@media (max-width: 640px) {
+  .value-grid {
+    gap: 36px;
+  }
+
+  .stack-label {
+    flex-basis: 100%;
+  }
+
+  .outro {
+    margin-top: 72px;
+    padding-top: 40px;
+  }
+}
