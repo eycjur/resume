@@ -25,14 +25,11 @@
         {% endif %}
         <nav class="site-nav" aria-label="Site">
           {% if page.lang == 'en' %}
-            <a href="{{ '/en/' | relative_url }}" aria-current="page">About</a>
             <a href="{{ '/ja/' | relative_url }}" lang="ja">日本語</a>
           {% else %}
-            <a href="{{ '/ja/' | relative_url }}"{% unless page.nav == 'products' %} aria-current="page"{% endunless %}>About</a>
-            <a href="{{ '/ja/products/' | relative_url }}"{% if page.nav == 'products' %} aria-current="page"{% endif %}>Products</a>
             <a href="{{ '/en/' | relative_url }}" lang="en">English</a>
           {% endif %}
-          <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/eycjur/resume" target="_blank" rel="noopener noreferrer">GitHub</a>
         </nav>
       </div>
     </header>
@@ -43,7 +40,11 @@
 
     <footer class="site-footer">
       <div class="site-footer-inner">
-        <p class="footer-name">kmuto — Software Engineer</p>
+        {% if page.lang == 'en' %}
+          <p class="footer-name">kmuto — Software Engineer</p>
+        {% else %}
+          <p class="footer-name">kmuto — AI Engineer</p>
+        {% endif %}
         <p class="footer-meta">
           <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer">X</a>
           <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer">GitHub</a>

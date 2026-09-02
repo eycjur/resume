@@ -104,8 +104,7 @@ video {
   transition: color 0.2s ease;
 }
 
-.site-nav a:hover,
-.site-nav a[aria-current="page"] {
+.site-nav a:hover {
   color: var(--ink);
 }
 
@@ -185,7 +184,7 @@ video {
 
 .hero-lead {
   margin: 0 0 28px;
-  font-size: clamp(22px, 3.6vw, 32px);
+  font-size: clamp(21px, 3.4vw, 29px);
   font-weight: 700;
   line-height: 1.6;
   letter-spacing: 0.01em;
@@ -195,10 +194,18 @@ video {
   background: linear-gradient(transparent 68%, var(--accent-soft) 68%);
 }
 
+.hero-lead .nowrap {
+  white-space: nowrap;
+}
+
 .hero-body {
   max-width: 42em;
-  margin: 0 0 32px;
+  margin: 0 0 18px;
   color: var(--ink-soft);
+}
+
+.hero .sns-links {
+  margin-top: 32px;
 }
 
 .sns-links {

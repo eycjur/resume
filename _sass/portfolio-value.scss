@@ -1,0 +1,45 @@
+// ---------------------------------------------------------------
+// Value proposition grid & talks-section OSS block
+// ---------------------------------------------------------------
+
+.value-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 40px 36px;
+}
+
+.value h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.value h3::before {
+  content: "▍";
+  margin-right: 6px;
+  color: var(--accent);
+}
+
+.value p {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.9;
+  color: var(--ink-soft);
+}
+
+.timeline-body {
+  max-width: 46em;
+  margin: 10px 0 0;
+  font-size: 15px;
+  color: var(--ink-soft);
+}
+
+.talks-oss {
+  margin: 56px 0 0;
+}
+
+@media (max-width: 640px) {
+  .value-grid {
+    gap: 32px;
+  }
+}

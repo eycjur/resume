@@ -1,0 +1,9 @@
+{
+  "name": "resume-preview",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "liquidjs": "^10.24.0",
+    "sass": "^1.97.0"
+  }
+}

@@ -8,3 +8,8 @@ defaults:
       path: ""
     values:
       layout: default
+      image: /assets/ogp.png
+  - scope:
+      path: "en"
+    values:
+      image: /assets/ogp-en.png

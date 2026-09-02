@@ -26,7 +26,7 @@ permalink: /ja/products/
   </div>
   <p class="product-actions">
     <a class="product-btn" href="https://apps.apple.com/jp/app/%E7%84%A1%E9%99%90%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97/id6799426264" target="_blank" rel="noopener noreferrer">App Storeで見る</a>
-    <a class="product-btn product-btn-ghost" href="https://eycjur.github.io/infinite-alarm-pages/ja/" target="_blank" rel="noopener noreferrer">紹介ページを見る</a>
+    <a class="product-btn product-btn-ghost" href="https://eycjur.github.io/infinite-alarm-pages/ja/" target="_blank" rel="noopener noreferrer">サポートページを見る</a>
   </p>
 </div>
 
