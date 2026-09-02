@@ -5,11 +5,13 @@ nav: products
 permalink: /ja/products/
 ---
 
-# プロダクト集
+<header class="page-head">
+  <p class="eyebrow">Products</p>
+  <h1>プロダクト集</h1>
+  <p class="hero-body">プライベートで作成しているプロダクト集です。</p>
+</header>
 
-プライベートで作成しているプロダクト集です。
-
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">iOSアプリ</p>
   <div class="product-title">
     <img class="product-icon" src="{{ '/assets/products/infinite-alarm/icon.png' | relative_url }}" alt="" width="36" height="36">
@@ -28,7 +30,7 @@ permalink: /ja/products/
   </p>
 </div>
 
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">ブラウザで試せる</p>
   <h2>X Algorithm Visualizer</h2>
   <p>Xのおすすめに、なぜこの投稿が出るのか。X（旧Twitter）を開くと、フォローしていない人の投稿も混ざって出てきます。あの並び順は、裏で何段階もの選別を経て決まっています。</p>
@@ -41,7 +43,7 @@ permalink: /ja/products/
   </p>
 </div>
 
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">VS Code拡張機能</p>
   <div class="product-title">
     <img class="product-icon" src="{{ '/assets/products/doc-translate-icon.png' | relative_url }}" alt="" width="36" height="36">
@@ -54,7 +56,7 @@ permalink: /ja/products/
   </p>
 </div>
 
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">ブラウザで遊べる</p>
   <h2>ゴミ分別ゲーム</h2>
   <p>上から落ちてくるゴミを、可燃、不燃、資源、粗大ごみの箱に入れます。ルールは渋谷区の分別です。制限時間は30秒です。</p>
@@ -67,7 +69,7 @@ permalink: /ja/products/
   </p>
 </div>
 
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">LINEスタンプ</p>
   <h2>IT系/エンジニアの日常会話</h2>
   <p>エンジニアがチャットでよく使う言い回しを、ロボットのキャラクターでスタンプにしました。「初めまして」「完全に理解した」など、現場で聞く言葉が並んでいます。</p>
@@ -90,7 +92,7 @@ permalink: /ja/products/
   </p>
 </div>
 
-<div class="product" markdown="0">
+<div class="product reveal" markdown="0">
   <p class="product-label">電子工作</p>
   <h2>自動運転ロボット</h2>
   <p>Raspberry Pi Picoで作った自動運転の工作です。前の障害物を見つけて、よけながら走ります。</p>

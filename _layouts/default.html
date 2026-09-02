@@ -1,59 +1,77 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+<html lang="{{ page.lang | default: 'ja' }}">
 
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+JP:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script>document.documentElement.classList.add('js');</script>
 
 {% seo %}
     {% include head-custom.html %}
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <div id="header_actions">
-            {% if page.lang == 'ja' %}
-              <a id="lang_switch_banner" href="{{ '/en/' | relative_url }}" aria-label="Switch to English"><span class="lang-flag">🇺🇸</span><span class="lang-label">English</span></a>
-            {% elsif page.lang == 'en' %}
-              <a id="lang_switch_banner" href="{{ '/ja/' | relative_url }}" aria-label="日本語に切り替え"><span class="lang-flag">🇯🇵</span><span class="lang-label">日本語</span></a>
-            {% endif %}
-            {% if site.github.is_project_page %}
-              <a id="forkme_banner" href="{{ site.github.repository_url }}">GitHub</a>
-            {% endif %}
-          </div>
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    <header class="site-header">
+      <div class="site-header-inner">
+        {% if page.lang == 'en' %}
+          <a class="brand" href="{{ '/en/' | relative_url }}">kmuto<span class="brand-dot">.</span></a>
+        {% else %}
+          <a class="brand" href="{{ '/ja/' | relative_url }}">kmuto<span class="brand-dot">.</span></a>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+        <nav class="site-nav" aria-label="Site">
+          {% if page.lang == 'en' %}
+            <a href="{{ '/en/' | relative_url }}" aria-current="page">About</a>
+            <a href="{{ '/ja/' | relative_url }}" lang="ja">日本語</a>
+          {% else %}
+            <a href="{{ '/ja/' | relative_url }}"{% unless page.nav == 'products' %} aria-current="page"{% endunless %}>About</a>
+            <a href="{{ '/ja/products/' | relative_url }}"{% if page.nav == 'products' %} aria-current="page"{% endif %}>Products</a>
+            <a href="{{ '/en/' | relative_url }}" lang="en">English</a>
+          {% endif %}
+          <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <p class="footer-name">kmuto — Software Engineer</p>
+        <p class="footer-meta">
+          <a href="https://x.com/eycjur" target="_blank" rel="noopener noreferrer">X</a>
+          <a href="https://github.com/eycjur" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://qiita.com/eycjur" target="_blank" rel="noopener noreferrer">Qiita</a>
+          <a href="https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        </p>
+        <p class="footer-credit">Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </div>
+    </footer>
+
+    <script>
+      (function () {
+        var targets = document.querySelectorAll('.reveal');
+        var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (reduced || !('IntersectionObserver' in window)) {
+          targets.forEach(function (el) { el.classList.add('is-visible'); });
+          return;
+        }
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('is-visible');
+              io.unobserve(entry.target);
+            }
+          });
+        }, { rootMargin: '0px 0px -8% 0px' });
+        targets.forEach(function (el) { io.observe(el); });
+      })();
+    </script>
   </body>
 </html>

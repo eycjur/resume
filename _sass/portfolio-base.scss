@@ -1,0 +1,298 @@
+// ---------------------------------------------------------------
+// Foundations: tokens, base elements, header/footer, hero, sections
+// ---------------------------------------------------------------
+
+:root {
+  --paper: #fbfbf8;
+  --surface: #f2f2ec;
+  --ink: #1b1d22;
+  --ink-soft: #3c4048;
+  --muted: #6b6f77;
+  --line: #e4e4dc;
+  --accent: #2e42d6;
+  --accent-soft: #e9ecfa;
+  --font-display: "Space Grotesk", "IBM Plex Sans JP", "Hiragino Kaku Gothic ProN", sans-serif;
+  --font-body: "IBM Plex Sans JP", "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+  --content-width: 880px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.9;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+// ---- Header --------------------------------------------------
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(251, 251, 248, 0.86);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+
+.site-header-inner {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+}
+
+.brand-dot {
+  color: var(--accent);
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 22px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+}
+
+.site-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+}
+
+// ---- Main / Footer -------------------------------------------
+
+.site-main {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 24px 96px;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.site-footer-inner {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 40px 24px 48px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.site-footer-inner p {
+  margin: 0 0 10px;
+}
+
+.footer-name {
+  color: var(--ink);
+}
+
+.footer-meta a {
+  margin-right: 18px;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.footer-meta a:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+.footer-credit a {
+  color: inherit;
+}
+
+// ---- Hero ----------------------------------------------------
+
+.hero {
+  padding: 88px 0 60px;
+}
+
+.eyebrow {
+  margin: 0 0 20px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.hero-name {
+  margin: 0 0 28px;
+  font-family: var(--font-display);
+  font-size: clamp(64px, 11vw, 120px);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.hero-dot {
+  color: var(--accent);
+}
+
+.hero-lead {
+  margin: 0 0 28px;
+  font-size: clamp(22px, 3.6vw, 32px);
+  font-weight: 700;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+}
+
+.hero-lead .mark {
+  background: linear-gradient(transparent 68%, var(--accent-soft) 68%);
+}
+
+.hero-body {
+  max-width: 42em;
+  margin: 0 0 32px;
+  color: var(--ink-soft);
+}
+
+.sns-links {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.icon-link {
+  display: inline-flex;
+  opacity: 0.75;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.icon-link:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+// ---- Sections ------------------------------------------------
+
+.section {
+  margin: 104px 0 0;
+}
+
+.section-head {
+  display: flex;
+  align-items: baseline;
+  gap: 18px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  margin-bottom: 44px;
+}
+
+.section-no {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+}
+
+.section-head h2 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.section-en {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+// ---- Scroll reveal (JS adds .is-visible) ---------------------
+
+html.js .reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+html.js .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  html.js .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero {
+    padding-top: 56px;
+  }
+
+  .section {
+    margin-top: 72px;
+  }
+
+  .section-head {
+    flex-wrap: wrap;
+    gap: 10px 18px;
+    margin-bottom: 32px;
+  }
+}
