@@ -32,6 +32,20 @@ permalink: /ja/products/
 
 <div class="product reveal" markdown="0">
   <p class="product-label">ブラウザで試せる</p>
+  <h2>不動産売却価格 回帰分析</h2>
+  <p>築年数が1年増えると、価格は何%下がるか。国土交通省の取引価格データ約106万件で、東京23区と政令指定都市の中古マンションと戸建を分析します。</p>
+  <p>区や駅徒歩などの条件を変えると、価格がどう動くかをグラフで確認できます。将来の人口推計を織り込んだ価格の試算や、ワンルーム投資などの想定利回りも出せます。</p>
+  <a class="product-media" href="https://eycjur.github.io/real_estate_price_analysis/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/products/real-estate-ogp.png' | relative_url }}" alt="不動産売却価格 回帰分析。築年数とともに価格が下がる曲線と、立地マップ、将来予測、利回り、全国の相場の項目" width="360" height="189">
+  </a>
+  <p class="product-actions">
+    <a class="product-btn" href="https://eycjur.github.io/real_estate_price_analysis/" target="_blank" rel="noopener noreferrer">ブラウザで試す</a>
+    <a class="product-btn product-btn-ghost" href="https://github.com/eycjur/real_estate_price_analysis" target="_blank" rel="noopener noreferrer">GitHubで見る</a>
+  </p>
+</div>
+
+<div class="product reveal" markdown="0">
+  <p class="product-label">ブラウザで試せる</p>
   <h2>X Algorithm Visualizer</h2>
   <p>Xのおすすめに、なぜこの投稿が出るのか。X（旧Twitter）を開くと、フォローしていない人の投稿も混ざって出てきます。あの並び順は、裏で何段階もの選別を経て決まっています。</p>
   <p>このページでは、その選別を一歩ずつ再生できます。投稿は教材用の作りものですが、計算の仕方は公開されている本家の式を使っています。</p>
@@ -40,6 +54,19 @@ permalink: /ja/products/
   </a>
   <p class="product-actions">
     <a class="product-btn" href="https://eycjur.github.io/x_algorithm_visualizer/" target="_blank" rel="noopener noreferrer">ブラウザで試す</a>
+  </p>
+</div>
+
+<div class="product reveal" markdown="0">
+  <p class="product-label">ブラウザで試せる</p>
+  <h2>X/Twitter投稿分析</h2>
+  <p>いつ、どんな投稿が伸びやすいか。Xのデータアーカイブを読み込み、曜日や時間帯、画像の有無といった特徴ごとに調べます。</p>
+  <p>処理はブラウザの中だけで行い、データはどこにも送りません。zipをドロップするだけで使えます。</p>
+  <a class="product-media" href="https://x-post-analytics.eycjur.workers.dev/ja/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/products/x-post-analytics-ogp.png' | relative_url }}" alt="X/Twitter投稿分析。曜日と時間帯のヒートマップで、伸びやすい投稿を調べる画面" width="360" height="189">
+  </a>
+  <p class="product-actions">
+    <a class="product-btn" href="https://x-post-analytics.eycjur.workers.dev/ja/" target="_blank" rel="noopener noreferrer">ブラウザで試す</a>
   </p>
 </div>
 
