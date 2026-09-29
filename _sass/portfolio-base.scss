@@ -108,6 +108,11 @@ video {
   color: var(--ink);
 }
 
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom: 1px solid var(--accent);
+}
+
 // ---- Main / Footer -------------------------------------------
 
 .site-main {

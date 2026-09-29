@@ -178,5 +178,3 @@ lang: ja
     <p>バグ修正や機能改善を中心に、各種OSSプロジェクトへPRを提出。<a class="text-link" href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aeycjur+is%3Aclosed" target="_blank" rel="noopener noreferrer">BerriAI/litellm</a>では、LLMプロバイダ対応やObservability連携の改善などに特に積極的に貢献。</p>
   </div>
 </section>
-
-<p class="products-aside"><a href="{{ '/ja/products/' | relative_url }}">プロダクト集 →</a></p>

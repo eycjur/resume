@@ -228,27 +228,6 @@
   color: var(--muted);
 }
 
-// ---- Products aside link (index) -----------------------------
-
-.products-aside {
-  margin: 96px 0 0;
-  font-family: var(--font-mono);
-  font-size: 13px;
-}
-
-.products-aside a {
-  color: var(--muted);
-  text-decoration: none;
-  border-bottom: 1px dotted var(--muted);
-  padding-bottom: 1px;
-  transition: color 0.2s ease, border-color 0.2s ease;
-}
-
-.products-aside a:hover {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
-}
-
 // ---- Products page -------------------------------------------
 
 .page-head {

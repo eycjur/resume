@@ -27,6 +27,9 @@
           {% if page.lang == 'en' %}
             <a href="{{ '/ja/' | relative_url }}" lang="ja">日本語</a>
           {% else %}
+            <a href="{{ '/ja/' | relative_url }}"{% unless page.nav == 'products' %} aria-current="page"{% endunless %}>About</a>
+            <a href="{{ '/ja/products/' | relative_url }}"{% if page.nav == 'products' %} aria-current="page"{% endif %}>Products</a>
+            <a href="{{ '/ja/card/' | relative_url }}">名刺</a>
             <a href="{{ '/en/' | relative_url }}" lang="en">English</a>
           {% endif %}
           <a href="https://github.com/eycjur/resume" target="_blank" rel="noopener noreferrer">GitHub</a>

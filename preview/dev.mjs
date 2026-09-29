@@ -18,6 +18,7 @@ const PAGES = [
   ['ja/index.md', 'ja/index.html'],
   ['en/index.md', 'en/index.html'],
   ['ja/products.md', 'ja/products/index.html'],
+  ['ja/card.md', 'ja/card/index.html'],
 ];
 const WATCH_DIRS = ['ja', 'en', '_layouts', '_includes', '_sass', 'assets'];
 const RELOAD_SNIPPET =
@@ -41,17 +42,18 @@ function parseFrontMatter(raw) {
 }
 
 async function buildHTML() {
-  const layout = fs
-    .readFileSync(path.join(repo, '_layouts/default.html'), 'utf8')
-    .replace(/\{%\s*include head-custom.html\s*%\}/, () =>
-      fs.readFileSync(path.join(repo, '_includes/head-custom.html'), 'utf8')
-    );
+  const loadLayout = (name) =>
+    fs
+      .readFileSync(path.join(repo, `_layouts/${name}.html`), 'utf8')
+      .replace(/\{%\s*include head-custom.html\s*%\}/, () =>
+        fs.readFileSync(path.join(repo, '_includes/head-custom.html'), 'utf8')
+      );
   const site = { github: { build_revision: String(Date.now()) } };
   for (const [src, dest] of PAGES) {
     const { fm, body } = parseFrontMatter(fs.readFileSync(path.join(repo, src), 'utf8'));
     const page = { lang: fm.lang, nav: fm.nav, title: fm.title };
     const content = await engine.parseAndRender(body, { page, site });
-    let html = await engine.parseAndRender(layout, { page, site, content });
+    let html = await engine.parseAndRender(loadLayout(fm.layout ?? 'default'), { page, site, content });
     html = html.replace('</body>', `${RELOAD_SNIPPET}\n</body>`);
     const target = path.join(out, dest);
     fs.mkdirSync(path.dirname(target), { recursive: true });
@@ -75,10 +77,9 @@ function buildCSS() {
 }
 
 function copyAssets() {
-  fs.cpSync(path.join(repo, 'assets/products'), path.join(out, 'assets/products'), {
-    recursive: true,
-    force: true,
-  });
+  for (const dir of ['assets/products', 'assets/card']) {
+    fs.cpSync(path.join(repo, dir), path.join(out, dir), { recursive: true, force: true });
+  }
 }
 
 const clients = new Set();
