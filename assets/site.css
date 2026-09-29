@@ -1,0 +1,66 @@
+/* 全ページ共通のスタイル。個々の見た目は各ページの Tailwind クラスで指定する。
+   Tailwind と同じ順でレイヤーを宣言し、ここは components に置く。
+   base（preflight）より強く、utilities より弱くなるため、クラス指定で上書きできる。 */
+@layer properties, theme, base, components, utilities;
+
+@layer components {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-size: 16px;
+    line-height: 1.9;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+
+  /* 職務経歴タイムラインの丸印 */
+  .timeline-item::before {
+    content: "";
+    position: absolute;
+    left: -5.5px;
+    top: 10px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--color-paper);
+    border: 2px solid var(--color-accent);
+  }
+
+  /* スクロール表示（site.js が .is-visible を付ける） */
+  html.js .reveal {
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  html.js .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    html.js .reveal {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+}

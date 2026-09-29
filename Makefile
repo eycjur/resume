@@ -1,9 +1,5 @@
-.PHONY: serve clean
+.PHONY: serve
 
-# ホットリロード付きプレビュー（Ruby不要。liquidjs + dart-sass による簡易レンダラー）
+# 静的ファイルをそのまま配信してプレビューする（ビルド不要）
 serve:
-	cd preview && npm install --silent
-	node preview/dev.mjs
-
-clean:
-	rm -rf _preview preview/node_modules
+	python3 -m http.server 4000
