@@ -71,6 +71,20 @@ permalink: /ja/products/
 </div>
 
 <div class="product reveal" markdown="0">
+  <p class="product-label">ブラウザで試せる</p>
+  <h2>困った時のツール集</h2>
+  <p>ちょっとした変換や確認を、ブラウザで。正規表現のテスト、PDFの結合、画像の変換など、日常で詰まる作業を37個まとめています。</p>
+  <p>ツール名で検索できるので、必要なときにすぐ開けます。</p>
+  <a class="product-media" href="https://eycjur.github.io/helpful_tools/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/products/helpful-tools.png' | relative_url }}" alt="困った時のツール集。正規表現テスターや文字数カウンタなど、便利ツールの一覧画面" width="360" height="189">
+  </a>
+  <p class="product-actions">
+    <a class="product-btn" href="https://eycjur.github.io/helpful_tools/" target="_blank" rel="noopener noreferrer">ブラウザで試す</a>
+    <a class="product-btn product-btn-ghost" href="https://github.com/eycjur/helpful_tools" target="_blank" rel="noopener noreferrer">GitHubで見る</a>
+  </p>
+</div>
+
+<div class="product reveal" markdown="0">
   <p class="product-label">VS Code拡張機能</p>
   <div class="product-title">
     <img class="product-icon" src="{{ '/assets/products/doc-translate-icon.png' | relative_url }}" alt="" width="36" height="36">
