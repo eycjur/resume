@@ -1,7 +1,6 @@
 // ホットリロード付きプレビューサーバー（Ruby/Jekyll がない環境向けの簡易版）。
 // Liquid は liquidjs、SCSS は dart-sass で処理する。ページ本文は raw HTML 前提
-// （kramdown の Markdown 変換は行わない）なので、Markdown 記法を本文に書く場合は
-// 本物の Jekyll（make jekyll）で確認すること。
+// （kramdown の Markdown 変換は行わない）なので、Markdown 記法は本文に書かないこと。
 import { Liquid } from 'liquidjs';
 import * as sass from 'sass';
 import fs from 'fs';

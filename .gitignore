@@ -1,10 +1,4 @@
-_site/
 _preview/
 preview/node_modules/
 preview/package-lock.json
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-vendor/
-.bundle/
 .DS_Store
