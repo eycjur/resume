@@ -5,37 +5,66 @@
   "serialNumber": "kmuto-card",
   "organizationName": "Katsuhiro Muto",
   "description": "武藤 克大 デジタル名刺",
-  "logoText": "kmuto",
+  "logoText": "武藤 克大",
   "backgroundColor": "rgb(46, 66, 214)",
   "foregroundColor": "rgb(255, 255, 255)",
   "labelColor": "rgb(233, 236, 250)",
-  "generic": {
-    "primaryFields": [
-      { "key": "name", "label": "AI Engineer @ 理化学研究所", "value": "武藤 克大" }
-    ],
+  "storeCard": {
     "secondaryFields": [
-      { "key": "name_en", "label": "NAME", "value": "Katsuhiro Muto" }
+      {
+        "key": "role",
+        "label": "AI Engineer",
+        "value": "理化学研究所"
+      }
     ],
     "auxiliaryFields": [
-      { "key": "field", "label": "専門", "value": "生成AI / 機械学習" },
-      { "key": "work", "label": "現職", "value": "AI for Science" }
+      {
+        "key": "field",
+        "label": "専門",
+        "value": "生成AI / 機械学習"
+      }
     ],
     "backFields": [
-      { "key": "card", "label": "デジタル名刺", "value": "https://eycjur.github.io/resume/ja/card/" },
-      { "key": "resume", "label": "経歴・実績", "value": "https://eycjur.github.io/resume/ja/" },
-      { "key": "x", "label": "X", "value": "https://x.com/eycjur" },
-      { "key": "linkedin", "label": "LinkedIn", "value": "https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/" },
-      { "key": "github", "label": "GitHub", "value": "https://github.com/eycjur" },
-      { "key": "qiita", "label": "Qiita", "value": "https://qiita.com/eycjur" },
-      { "key": "book", "label": "著書", "value": "『先輩データサイエンティストからの指南書』（技術評論社・共著）\nhttps://gihyo.jp/book/2025/978-4-297-15100-3" }
+      {
+        "key": "name",
+        "label": "名前",
+        "value": "武藤 克大 / Katsuhiro Muto"
+      },
+      {
+        "key": "card",
+        "label": "デジタル名刺",
+        "value": "https://eycjur.github.io/resume/ja/card/"
+      },
+      {
+        "key": "resume",
+        "label": "経歴・実績",
+        "value": "https://eycjur.github.io/resume/ja/"
+      },
+      {
+        "key": "x",
+        "label": "X",
+        "value": "https://x.com/eycjur"
+      },
+      {
+        "key": "linkedin",
+        "label": "LinkedIn",
+        "value": "https://www.linkedin.com/in/katsuhiro-muto-00934b1b7/"
+      },
+      {
+        "key": "github",
+        "label": "GitHub",
+        "value": "https://github.com/eycjur"
+      },
+      {
+        "key": "qiita",
+        "label": "Qiita",
+        "value": "https://qiita.com/eycjur"
+      },
+      {
+        "key": "book",
+        "label": "著書",
+        "value": "『先輩データサイエンティストからの指南書』（技術評論社・共著）\nhttps://gihyo.jp/book/2025/978-4-297-15100-3"
+      }
     ]
-  },
-  "barcodes": [
-    {
-      "format": "PKBarcodeFormatQR",
-      "message": "https://eycjur.github.io/resume/ja/card/",
-      "messageEncoding": "iso-8859-1",
-      "altText": "eycjur.github.io/resume"
-    }
-  ]
+  }
 }

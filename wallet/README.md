@@ -1,7 +1,8 @@
 # デジタル名刺の Apple Wallet パス
 
 `ja/card/` の名刺を Apple Wallet に入れ、相手に QR コード（名刺ページの URL）を見せるためのパスを生成します。
-パスの内容は `pass.template.json`、画像は `pass/`（`assets/card/avatar.jpg` から作成）にあります。
+パスの表面には名刺ページと X の QR コードを並べた画像（`pass/strip*.png`）を表示します。
+パスの内容は `pass.template.json`、画像は `pass/` にあります。画像はアバターや URL を変えたときに `make wallet-images`（要: `pip install "qrcode[pil]"`）で再生成します。
 
 ## 1. 証明書の準備（初回のみ・要 Apple Developer Program）
 
@@ -34,4 +35,4 @@ make wallet
 - AirDrop / メールで iPhone に送って開く
 - またはコミットして GitHub Pages に公開し、Safari で `https://eycjur.github.io/resume/assets/card/kmuto.pkpass` を開く
 
-Wallet でパスを開くと QR コードが表示され、読み取った相手は名刺ページ（`https://eycjur.github.io/resume/ja/card/`）を開けます。
+Wallet でパスを開くと名刺ページ（`https://eycjur.github.io/resume/ja/card/`）と X（`https://x.com/eycjur`）の QR コードが並んで表示されます。
