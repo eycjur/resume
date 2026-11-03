@@ -1,1 +1,6 @@
 .DS_Store
+
+# Apple Wallet の署名用証明書・鍵
+*.p12
+*.pem
+*.cer
